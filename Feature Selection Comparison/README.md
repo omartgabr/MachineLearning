@@ -1,4 +1,4 @@
-#Feature Selection for Diabetes Dataset
+# Feature Selection for Diabetes Dataset
 
 This project aims to evaluate the strength of features in the diabetes dataset, which is a regression problem consisting of 10 features used to predict the progression of diabetes. Multiple feature selection techniques are used, including Pearson correlation coefficient, mutual information, random forest feature importance, and recursive feature elimination.
 
